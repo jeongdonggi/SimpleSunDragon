@@ -48,4 +48,4 @@ https://pypi.org/project/simplesundragon
 1. simplesundragon.py를 다운받는다
 2. 필요한 파이썬 파일 내부에 넣는다.
 3. import simplesundragon as dragon
-4. 내부에 있는 코드를 사용한다. [ex) dragon.gcd(14,12)]
+4. 내부에 있는 코드를 사용한다. [ex. dragon.gcd(14,12)]
