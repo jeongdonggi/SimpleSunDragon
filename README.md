@@ -38,14 +38,23 @@ a의 유니코드는 97이므로 'ord(a)-97'을 하게 되면 a는 0이되고, b
 코드르 라이브러리화 해주기 위해 PYPI 사이트를 통해 코드를 올렸다.
 https://pypi.org/project/simplesundragon
 <br>
-<img src="C:\Users\dkrha\Desktop\SimpleSunDragon\img\pypi_uplaod.jpg">
+<img src="./img/pypi_uplaod.jpg">
 그런데 pip install은 되는데 python에서 import가 안된다.<br>
-<img src="C:\Users\dkrha\Desktop\SimpleSunDragon\img\pycharm_load.jpg">
+<img src="./img/pycharm_load.jpg">
 <br>
 <hr/>
 내가 구현한 파이썬 코드는 simplesundragon 파일 내부에 있으니 파이썬 코드를 사용하려면 파일 내부의 코드만 다운받아 사용하면 될 것 같다.<br>
-코드를 받아 사용하는 방법
+- 코드를 받아 사용하는 방법<br>
 1. simplesundragon.py를 다운받는다
 2. 필요한 파이썬 파일 내부에 넣는다.
 3. import simplesundragon as dragon
-4. 내부에 있는 코드를 사용한다. [ex. dragon.gcd(14,12)]
+4. 내부에 있는 코드를 사용한다.
+ex.
+1.gcd
+<img src="./img/1.jpg">
+2.simple_gcd
+<img src="./img/2.jpg">
+3.multiply_inverse
+<img src="./img/3.jpg">
+4.hill_num
+<img src="./img/4.jpg">
