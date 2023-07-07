@@ -45,9 +45,9 @@ https://pypi.org/project/simplesundragon
 <hr/>
 내가 구현한 파이썬 코드는 simplesundragon 파일 내부에 있으니 파이썬 코드를 사용하려면 파일 내부의 코드만 다운받아 사용하면 될 것 같다.<br>
 - 코드를 받아 사용하는 방법<br>
-1. simplesundragon.py를 다운받는다
-2. 필요한 파이썬 파일 내부에 넣는다.
-3. import simplesundragon as dragon
+1. simplesundragon.py를 다운받는다<br>
+2. 필요한 파이썬 파일 내부에 넣는다.<br>
+3. import simplesundragon as dragon<br>
 4. 내부에 있는 코드를 사용한다.<br>
 ex.<br>
 1.gcd
