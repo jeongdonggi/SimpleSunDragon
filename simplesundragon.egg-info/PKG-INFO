@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: simplesundragon
+Version: 0.0.1
+Summary: study first Package
+Home-page: https://github.com/jeongdonggi/SimpleSunDragon
+Author: Jeongdongki
+Author-email: dkrhank45@skuniv.ac.kr
+Keywords: Jeongdongki,simplesundragon
+Requires-Python: >=3
