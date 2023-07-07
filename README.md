@@ -38,9 +38,9 @@ a의 유니코드는 97이므로 'ord(a)-97'을 하게 되면 a는 0이되고, b
 코드르 라이브러리화 해주기 위해 PYPI 사이트를 통해 코드를 올렸다.
 https://pypi.org/project/simplesundragon
 <br>
-<img src="C:\Users\dkrha\Desktop\SimpleSunDragon\img\pypi_uplaod.jpg">
+<img src="./img/pypi_uplaod.jpg">
 그런데 pip install은 되는데 python에서 import가 안된다.<br>
-<img src="C:\Users\dkrha\Desktop\SimpleSunDragon\img\pycharm_load.jpg">
+<img src="./img/pycharm_load.jpg">
 <br>
 <hr/>
 내가 구현한 파이썬 코드는 simplesundragon 파일 내부에 있으니 파이썬 코드를 사용하려면 파일 내부의 코드만 다운받아 사용하면 될 것 같다.
